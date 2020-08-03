@@ -1,0 +1,1 @@
+{"nDaysWithoutFine":5,"finePerDay":2.0,"username":"user","password":"efdf72533b47bb204ce94ebd24e0225f4e705ed4"}
